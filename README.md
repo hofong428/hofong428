@@ -1,6 +1,6 @@
 - 👋 Hi, I’m HoFong
 - 👀 I’m highly interested in data analysis, financial modeling, data science, machine learning and quant finance. 
-- 💞️ I have worked across industries such as new drug development, healtheconomics, bioinformatics, real estate, securities (options algo trade), venture capital , private equity fund for over 25 years, with a focus on portfolio optimization and deep dived in advanced analytics.
+- 💞️ I have worked across industries such as new drug development, healtheconomics, bioinformatics, real estate, securities(options algo trade), venture capital , private equity fund(energy and pharma) for over 25 years, with a focus on portfolio optimization and deep dived in advanced analytics.
 - 📫 Blog on Medium:  https://medium.com/@raymondchang_24290
 
 <!---
